@@ -3,7 +3,7 @@ import gsap from "gsap";
 import { useRef, useState } from "react";
 import 'remixicon/fonts/remixicon.css';
 import About from "./About";
-import Shop from "./Shop";
+import Shop from "./Shop"; 
 import Gallery from "./Gallery";
 import PlayNow from "./PlayNow";
 import Characters from "./Characters";
